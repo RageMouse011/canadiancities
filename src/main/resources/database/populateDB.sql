@@ -1,0 +1,10 @@
+insert into cities (name, population, area) values ('Toronto', 2503281, 630.2),
+                                                   ('Granby', 66222, 156.1),
+                                                   ('Regina', 215106, 180.0),
+                                                   ('Woodstock', 40902, 43.79),
+                                                   ('Montreal', 1762949, 431.5),
+                                                   ('Ottawa', 994837, 2790.0),
+                                                   ('Bancroft', 3881, 227.54),
+                                                   ('Belleville', 50720, 246.8),
+                                                   ('Lunenburg', 2263, 4.04),
+                                                   ('Liverpool', 2546, 3.59);
